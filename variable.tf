@@ -1,5 +1,5 @@
 variable "rgname"{
-    default  = "testrg"
+    default  = "ADO-Test"
 }
 
 variable "loc"{
