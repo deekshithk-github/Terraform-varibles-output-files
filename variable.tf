@@ -20,5 +20,7 @@ variable "pip"{
     
 }
 
-variable "am"{}
+variable "am"{
+default = "Static"
+}
 
