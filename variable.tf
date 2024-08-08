@@ -15,7 +15,8 @@ variable "tags1"{
 }
 
 variable "pip"{
-    type = string
+    default = "adopip001"
+    #type = string
     description = "this is public ip"
     
 }
